@@ -26,3 +26,8 @@ model_defaults:
 
 cicd_bot:
     type: github
+    auto_categorize_changes:
+        external: full
+        python: full
+        sql: full
+        seed: full

@@ -31,3 +31,4 @@ cicd_bot:
         python: full
         sql: full
         seed: full
+    skip_pr_backfill: false

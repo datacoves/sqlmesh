@@ -1,0 +1,2 @@
+pyOpenSSL==24.1.0
+sqlmesh[github,snowflake]==0.90.1
